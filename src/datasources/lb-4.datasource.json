@@ -1,0 +1,10 @@
+{
+  "name": "lb4",
+  "connector": "mongodb",
+  "url": "mongodb://isrmicha:123isrmicha@ds113765.mlab.com:13765/lb4",
+  "host": "ds113765.mlab.com",
+  "port": 13765,
+  "user": "isrmicha",
+  "password": "123isrmicha",
+  "database": "lb4"
+}
